@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "application-6 (4v + threads)"
+version = "0.1.0"
+description = ""
+authors = ["OlhaVerbova <137227019+OlhaVerbova@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
